@@ -1,0 +1,8 @@
+export const FREQUENCY = "PARAMS_FREQUENCY";  
+export const LOCATION = "PARAMS_LOCATION";
+export const MIN_MEMBERS = "PARAMS_MIN_MEMBERS";
+export const NEXT_PAGE = "NEXT_PAGE";
+export const MAX_MEMBERS = "PARAMS_MAX_MEMBERS";
+export const MIN_CLAN_POINTS = "PARAMS_MIN_CLAN_POINTS";
+export const UPDATE_PARAMS = "UPDATE_PARAMS";
+export const GET_DATA = "GET_DATA";
